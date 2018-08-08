@@ -1,2 +1,3 @@
 # hello-world
 first hello world
+Second career aka side hustle, because you get kicked out of SF after 7 years if you don't learn to code or speak tech, so here I am...
